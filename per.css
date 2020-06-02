@@ -14,11 +14,33 @@
     background-color: dimgray;
     opacity: 1.25;
     width: 373px;
-    height: auto;
+    height: 367px;
     border-radius: 25px 150px;
     background-image: linear-gradient(45deg, black,yellow);
     margin-top: 28px;
 }
 .head12{
     background-image: linear-gradient(45deg, black,yellow);  
+}
+.data1{
+   text-align: center;
+    color: aliceblue;
+    background-color: dimgray;
+    opacity: 1.25;
+    width: 373px;
+    height: 367px;
+    border-radius: 25px 150px;
+    background-image: linear-gradient(45deg, black,yellow);
+    margin-top: 28px;
+}
+.data2{
+    text-align: center;
+    color: aliceblue;
+    background-color: dimgray;
+    opacity: 1.25;
+    width: 373px;
+    height: 367px;
+    border-radius: 25px 150px;
+    background-image: linear-gradient(45deg, black,yellow);
+    margin-top: 28px;
 }
