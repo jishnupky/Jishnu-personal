@@ -7,3 +7,10 @@
     font-family: sans-serif;
     color: #6c757d;
 }
+.data{
+    margin-left: 313px;
+    text-align: center;
+    color: aliceblue;
+    background-color: dimgray;
+    opacity: 1.25;
+}
