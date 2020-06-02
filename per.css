@@ -13,4 +13,7 @@
     color: aliceblue;
     background-color: dimgray;
     opacity: 1.25;
+    width: 373px;
+    height: auto;
+    border-radius: 25px 150px;
 }
